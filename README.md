@@ -1,1 +1,1 @@
-Testing the keyword releaser action!
+Testing the keyword releaser action
